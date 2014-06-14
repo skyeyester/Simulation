@@ -1,0 +1,26 @@
+//Simulation parameter
+simulationLength = 3600000
+numUsers = 1
+pauseLow = 18
+pauseHigh = 20
+moveSpeed = 100
+dbsize = 5000
+blockLength = 50
+cachesize = 10
+userBevSeed = 2
+userMobBevSeed = 0
+userQueryBevSeed = 3
+arrivalRate = 0.001
+totalFilesOnMap = 1000000
+numOfFileKinds = 100000
+generateFileSeed = 1
+algorithm = 1
+debug = false
+//Simulation parameter Used in our schema
+age_threshold = 1000
+sizeT_threshold = 10
+weight_w1 = 1.0
+weight_w2 = 1.0
+weight_w3 = 1.0
+alpha = 0.4
+beta = 0.1
